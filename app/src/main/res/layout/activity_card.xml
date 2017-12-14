@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:text="Happy Christmas One and All"
+        android:text="Happy Birthday Hero!!!"
         android:textAlignment="center"
         android:textColor="#E3F2FD"
         android:textSize="36sp"
